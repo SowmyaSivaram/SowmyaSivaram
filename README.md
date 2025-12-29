@@ -13,8 +13,6 @@ Hi, I'm Sowmya Sivaramakrishnan. 👋<br><br>I am a Software Engineer specializi
 ![](https://nirzak-streak-stats.vercel.app/?user=SowmyaSivaram&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SowmyaSivaram&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=programming)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SowmyaSivaram&icon=0&color=0)](https://visitcount.itsvg.in)
